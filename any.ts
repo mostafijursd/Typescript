@@ -1,4 +1,4 @@
-let data:any=[10,'hello',true];
+// let data:any=[10,'hello',true];
  
-console.log(data);
+// console.log(data);
 

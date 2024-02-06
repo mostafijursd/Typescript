@@ -1,6 +1,7 @@
-var a = 10;
-var b = 'hello';
-var c = undefined;
+"use strict";
+let a = 10;
+let b = 'hello';
+let c = undefined;
 console.log(a);
 console.log(b);
 console.log(c);
